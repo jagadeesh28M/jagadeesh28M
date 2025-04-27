@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 🌐 Open Source | 🕸️Full-Stack Developer<br><br> • 🌱 I’m currently learning everything xD<br><br> • ⚡ Fun fact love tech, music and sports<br><br> • 📫 How to reach me : <a href="https://x.com/Jagadeesh28M">Twitter</a> <br></br> • 💻 Check out some of my pojects :</p>
+<p align="left">• 🌐 Open Source | 🕸️Full-Stack Developer<br><br> • 🌱 I’m currently learning everything xD<br><br> • ⚡ Fun fact love tech, music and sports<br><br> • 📫 How to reach me : <a href="https://x.com/Jagadeesh28M" target="_blank">Twitter</a> <br></br> • 💻 Check out some of my pojects :</p>
 
 ###
 
